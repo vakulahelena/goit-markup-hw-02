@@ -17,13 +17,10 @@ a {
 .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
-    font-size: 18px;
-
-    /* line-height: 21px; */
+    font-size: 18px;   
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-
     color: #2e2f42;
 }
 
@@ -42,8 +39,6 @@ a {
 .nav-link {
     font-weight: 500;
     font-size: 16px;
-
-    /* line-height: 24px; */
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
@@ -56,8 +51,6 @@ a {
 .contacts-link {
     
     font-size: 16px;
-
-    /* line-height: 24px; */
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
@@ -70,7 +63,6 @@ a {
     color: #404bbf;
 }
 
-
 .hero {
     background-color: #2e2f42;
 }
@@ -78,8 +70,6 @@ a {
 .hero-title {
     font-weight: 700;
     font-size: 56px;
-
-    /* line-height: 60px; */
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
@@ -88,12 +78,9 @@ a {
 .hero-button {
     font-weight: 500;
     font-size: 16px;
-
-    /* line-height: 24px; */
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #4d5ae5;
     cursor: pointer;
 }
